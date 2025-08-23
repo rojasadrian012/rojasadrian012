@@ -1,14 +1,8 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rojasadrian012/rojasadrian012/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rojasadrian012/rojasadrian012/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/rojasadrian012/rojasadrian012/output/github-contribution-grid-snake.svg">
-</picture>
-
 # 👋 Hello, I'm Adrian Portillo
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Full+Stack+Developer;)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&width=600&height=55&lines=Full+Stack+Developer;)
 </div>
 
 ## 🚀 About Me
@@ -95,6 +89,23 @@ const adrian = {
 </div>
 
 ---
+
+<!-- Aquí iría el snake effect -->
+<div align="center">
+
+### 📊 GitHub Activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rojasadrian012/rojasadrian012/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rojasadrian012/rojasadrian012/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/rojasadrian012/rojasadrian012/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
+
+---
+
+<div align="center">
 
 <div align="center">
 
