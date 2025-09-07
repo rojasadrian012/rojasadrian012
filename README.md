@@ -21,8 +21,8 @@ const adrian = {
   hobbies: [
     "🏐 Volleyball",
     "🎮 Gaming",
-    "🍽️ Gastronomy",
     "🌍 Geopolitics",
+    "🍽️ Gastronomy",
     "✈️ Travel",
   ],
 };
@@ -35,6 +35,7 @@ const adrian = {
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rojasadrian012)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=safari&logoColor=white)](https://portfolio-beta-indol-22.vercel.app/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rojasadrian012@gmail.com)
+[![Download CV](https://img.shields.io/badge/Download_CV-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://docs.google.com/document/d/1yjD5SJn6aq_uYBZrHMfQNbuxUkJJhKqC/export?format=pdf)
 
 </div>
 
@@ -66,16 +67,15 @@ const adrian = {
 
 ## 🌟 Featured Projects
 
+### 🚀 Open Source Contributions
+
 <div align="center">
 
 [![QuickMock](https://github-readme-stats.vercel.app/api/pin/?username=Lemoncode&repo=quickmock&theme=tokyonight)](https://github.com/Lemoncode/quickmock)
 
 </div>
 
-### 🚀 Open Source Contributions
-
-- **QuickMock**: Open-source wireframing tool developed with React, TypeScript, and Konva. It allows users to quickly and easily create low-fidelity wireframes, ideal for the early stages of project design.
-- **Contributions**: Actively involved in addressing issues and implementing new features, using React, TypeScript, and React Konva to integrate interactive SVG-based components.
+**🔧 Key Contributions:** Bug fixes • New feature implementation • Interactive SVG components integration
 
 ## 🎓 Education & Certifications
 
