@@ -10,8 +10,8 @@
 ```javascript
 const adrian = {
   location: "Ciudad del Este, Paraguay",
-  currentRole: "Software Engineer @ Municipality of Ciudad del Este",
-  experience: "2+ years",
+  currentRole: "Full-stack Developer @ Municipality of Ciudad del Este",
+  experience: "3+ years",
   focus: [
     "Full Stack Development",
     "Scalable Applications",
