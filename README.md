@@ -14,16 +14,14 @@ const adrian = {
   experience: "3+ years",
   focus: [
     "Full Stack Development",
-    "Scalable Applications",
-    "Team Collaboration",
+    "Scalable Architecture",
+    "Geospatial Systems",
   ],
   passions: ["Clean Code", "Modern Technologies", "Problem Solving"],
   hobbies: [
     "🏐 Volleyball",
     "🎮 Gaming",
-    "🌍 Geopolitics",
     "🍽️ Gastronomy",
-    "✈️ Travel",
   ],
 };
 ```
